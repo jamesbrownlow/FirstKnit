@@ -9,7 +9,7 @@ output:
 date: "`r Sys.Date()`"   
 ---
 
-
+I went to AV High
 # A Little Survey
 
 Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
@@ -19,7 +19,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
+I did best in Math
      
 
 
@@ -28,6 +28,7 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
+  I'm about a 7 on computers
    
 
 ## Others and You?   
@@ -36,7 +37,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 ### my answer     
   
    
- 
+ Dr. J
 
 
 
@@ -45,7 +46,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+I want to teach stats  
    
  
 
@@ -57,7 +58,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 ### my answer     
   
-   
+I've been to Germany lots of times 
   
 
 
