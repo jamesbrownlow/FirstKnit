@@ -9,6 +9,7 @@ output:
 date: "`r Sys.Date()`"   
 ---
 
+
 # A Little Survey
 
 Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
